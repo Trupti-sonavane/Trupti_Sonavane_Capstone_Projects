@@ -1,0 +1,124 @@
+#Testing and Validation
+
+Introduction
+
+Testing and validation were performed to verify the accuracy, functionality, and reliability of the Enterprise Sales Intelligence Dashboard developed using Microsoft Power BI.
+
+The testing process focused on validating KPI calculations, dashboard interactions, data model relationships, filters, drill-through functionality, and Row-Level Security.
+
+#Testing Objectives
+
+Verify the accuracy of calculated KPIs and DAX measures.
+
+Validate data relationships between different tables.
+Ensure Year and Region filters work correctly.
+Verify Drill-through functionality.
+Test Row-Level Security implementation.
+Ensure dashboard visuals display the expected results.
+
+#Data Validation
+
+The dataset was reviewed to ensure that the data was properly prepared before dashboard development.
+Validation activities included:
+
+Checking data types and column values.
+Identifying missing or inconsistent data.
+Verifying data relationships between tables.
+Reviewing transformed data using Power Query.
+Ensuring that the data model supported accurate analysis.
+
+# DAX Measures Validation
+
+The following DAX measures were reviewed to verify their calculations and analytical outputs:
+
+Total Sales
+Total Profit
+Profit Margin
+Year-to-Date Sales
+Previous Year Sales
+Year-over-Year Growth
+Rolling 3-Month Average Sales
+
+The calculated values were checked against the underlying data and relevant business calculations.
+
+#Dashboard Functional Testing
+
+The dashboard's interactive features were tested to ensure correct functionality.
+
+#Test Case & Validation
+
+#Dashboard Loading
+Verified that all dashboard visuals load correctly.
+
+#Year Filter
+Checked whether visuals update according to the selected year.
+
+#Region Filter
+Verified region-wise filtering of dashboard data.
+
+#Combined Filters
+Tested Year and Region filters together.
+
+#Drill-through
+Verified navigation from the Sales by Region chart to the Region Details page.
+
+#KPI Cards
+Checked whether KPI values respond correctly to filter selections.
+
+#Chart Interaction
+Verified interactions between dashboard visuals.
+
+#Data Model Validation
+Reviewed relationships between Sales, SalesOrder, Product, Customer, Reseller, Date, and SalesTerritory tables.
+Checked relationship directions and cardinality.
+Verified that relationships supported the expected filtering behavior.
+Reviewed the overall data model structure.
+
+#Row-Level Security (RLS) Testing
+Row-Level Security was implemented using a RegionManager role.
+
+#The following checks were considered:
+
+Verified the RegionManager role configuration.
+Tested role-based data visibility using Power BI's View As functionality.
+Checked whether regional data restrictions worked as expected.
+
+#Testing Results
+
+The following table provides a record of the dashboard testing activities.
+
+Testing Results:
+
+#Data Cleaning
+Reviewed
+
+#Data Model Relationships
+Reviewed
+
+#DAX Measures
+Reviewed
+
+#Year Filter
+Tested
+
+#Region Filter
+Tested
+
+#Combined Filters
+Tested
+
+#Drill-through Functionality
+Tested
+
+#Dashboard Visuals
+Reviewed
+
+#RLS
+Tested
+
+#Conclusion
+
+The testing and validation process focused on ensuring that the Enterprise Sales Intelligence Dashboard provides accurate sales insights, reliable KPI calculations, and effective interactive functionality.
+
+The validation activities helped assess the dashboard's usability, data consistency, filtering behavior, and security implementation.
+
