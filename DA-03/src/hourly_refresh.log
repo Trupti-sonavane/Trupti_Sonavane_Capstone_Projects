@@ -1,0 +1,28 @@
+Dataset generation completed successfully!
+Inventory records: 100
+Supplier records: 10
+Shipment records: 200
+Product demand records: 9000
+CSV files saved in: C:\Users\TRUPTI SONAVANE\Desktop\Retail supply chain control tower
+suppliers: 10 rows imported.
+inventory: 100 rows imported.
+shipments: 200 rows imported.
+product_demand: 9000 rows imported.
+All CSV data imported successfully.
+Running: generate_data.py
+Running: import_to_postgres.py
+Hourly refresh completed successfully.
+Dataset generation completed successfully!
+Inventory records: 100
+Supplier records: 10
+Shipment records: 200
+Product demand records: 9000
+CSV files saved in: C:\Users\TRUPTI SONAVANE\Desktop\Retail supply chain control tower
+suppliers: 10 rows imported.
+inventory: 100 rows imported.
+shipments: 200 rows imported.
+product_demand: 9000 rows imported.
+All CSV data imported successfully.
+Running: generate_data.py
+Running: import_to_postgres.py
+Hourly refresh completed successfully.

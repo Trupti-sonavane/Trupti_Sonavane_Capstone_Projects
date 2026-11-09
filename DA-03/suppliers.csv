@@ -1,0 +1,11 @@
+supplier_id,supplier_name,lead_time_days,reliability_score,contact_email
+S001,Supplier 1,11,0.77,supplier1@example.com
+S002,Supplier 2,12,0.89,supplier2@example.com
+S003,Supplier 3,10,0.83,supplier3@example.com
+S004,Supplier 4,6,0.8,supplier4@example.com
+S005,Supplier 5,13,0.83,supplier5@example.com
+S006,Supplier 6,6,0.84,supplier6@example.com
+S007,Supplier 7,12,0.9,supplier7@example.com
+S008,Supplier 8,9,0.83,supplier8@example.com
+S009,Supplier 9,14,0.97,supplier9@example.com
+S010,Supplier 10,2,0.86,supplier10@example.com

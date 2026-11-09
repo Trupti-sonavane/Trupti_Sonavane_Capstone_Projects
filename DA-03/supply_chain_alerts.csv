@@ -1,0 +1,167 @@
+alert_type,item_id,message,severity
+LOW_STOCK,P006,"Product P006 has low stock. Current stock: 7, reorder level: 15.",HIGH
+LOW_STOCK,P010,"Product P010 has low stock. Current stock: 1, reorder level: 20.",HIGH
+LOW_STOCK,P013,"Product P013 has low stock. Current stock: 23, reorder level: 34.",HIGH
+LOW_STOCK,P015,"Product P015 has low stock. Current stock: 11, reorder level: 39.",HIGH
+LOW_STOCK,P019,"Product P019 has low stock. Current stock: 11, reorder level: 24.",HIGH
+LOW_STOCK,P020,"Product P020 has low stock. Current stock: 20, reorder level: 24.",HIGH
+LOW_STOCK,P041,"Product P041 has low stock. Current stock: 39, reorder level: 50.",HIGH
+LOW_STOCK,P054,"Product P054 has low stock. Current stock: 4, reorder level: 17.",HIGH
+LOW_STOCK,P057,"Product P057 has low stock. Current stock: 21, reorder level: 41.",HIGH
+LOW_STOCK,P059,"Product P059 has low stock. Current stock: 32, reorder level: 40.",HIGH
+LOW_STOCK,P068,"Product P068 has low stock. Current stock: 18, reorder level: 50.",HIGH
+LOW_STOCK,P078,"Product P078 has low stock. Current stock: 15, reorder level: 35.",HIGH
+LOW_STOCK,P081,"Product P081 has low stock. Current stock: 35, reorder level: 37.",HIGH
+LOW_STOCK,P083,"Product P083 has low stock. Current stock: 19, reorder level: 38.",HIGH
+LOW_STOCK,P084,"Product P084 has low stock. Current stock: 12, reorder level: 44.",HIGH
+LOW_STOCK,P085,"Product P085 has low stock. Current stock: 23, reorder level: 25.",HIGH
+LOW_STOCK,P094,"Product P094 has low stock. Current stock: 12, reorder level: 47.",HIGH
+LOW_STOCK,P096,"Product P096 has low stock. Current stock: 14, reorder level: 42.",HIGH
+LOW_STOCK,P099,"Product P099 has low stock. Current stock: 30, reorder level: 46.",HIGH
+DELAYED_SHIPMENT,SH0003,Shipment SH0003 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0004,Shipment SH0004 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0005,Shipment SH0005 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0006,Shipment SH0006 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0008,Shipment SH0008 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0009,Shipment SH0009 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0010,Shipment SH0010 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0012,Shipment SH0012 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0013,Shipment SH0013 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0015,Shipment SH0015 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0016,Shipment SH0016 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0017,Shipment SH0017 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0018,Shipment SH0018 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0021,Shipment SH0021 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0023,Shipment SH0023 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0024,Shipment SH0024 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0025,Shipment SH0025 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0026,Shipment SH0026 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0027,Shipment SH0027 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0028,Shipment SH0028 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0030,Shipment SH0030 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0031,Shipment SH0031 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0033,Shipment SH0033 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0034,Shipment SH0034 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0036,Shipment SH0036 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0037,Shipment SH0037 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0038,Shipment SH0038 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0039,Shipment SH0039 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0040,Shipment SH0040 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0041,Shipment SH0041 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0042,Shipment SH0042 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0044,Shipment SH0044 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0045,Shipment SH0045 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0047,Shipment SH0047 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0048,Shipment SH0048 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0049,Shipment SH0049 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0050,Shipment SH0050 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0053,Shipment SH0053 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0054,Shipment SH0054 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0056,Shipment SH0056 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0057,Shipment SH0057 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0059,Shipment SH0059 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0062,Shipment SH0062 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0064,Shipment SH0064 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0065,Shipment SH0065 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0066,Shipment SH0066 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0067,Shipment SH0067 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0068,Shipment SH0068 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0069,Shipment SH0069 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0071,Shipment SH0071 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0072,Shipment SH0072 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0074,Shipment SH0074 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0075,Shipment SH0075 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0077,Shipment SH0077 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0078,Shipment SH0078 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0081,Shipment SH0081 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0082,Shipment SH0082 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0083,Shipment SH0083 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0084,Shipment SH0084 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0085,Shipment SH0085 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0086,Shipment SH0086 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0088,Shipment SH0088 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0089,Shipment SH0089 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0090,Shipment SH0090 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0092,Shipment SH0092 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0093,Shipment SH0093 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0094,Shipment SH0094 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0095,Shipment SH0095 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0096,Shipment SH0096 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0097,Shipment SH0097 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0098,Shipment SH0098 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0100,Shipment SH0100 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0101,Shipment SH0101 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0102,Shipment SH0102 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0103,Shipment SH0103 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0104,Shipment SH0104 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0105,Shipment SH0105 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0106,Shipment SH0106 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0108,Shipment SH0108 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0109,Shipment SH0109 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0110,Shipment SH0110 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0115,Shipment SH0115 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0116,Shipment SH0116 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0117,Shipment SH0117 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0119,Shipment SH0119 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0120,Shipment SH0120 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0121,Shipment SH0121 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0122,Shipment SH0122 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0124,Shipment SH0124 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0125,Shipment SH0125 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0126,Shipment SH0126 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0128,Shipment SH0128 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0129,Shipment SH0129 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0132,Shipment SH0132 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0133,Shipment SH0133 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0134,Shipment SH0134 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0135,Shipment SH0135 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0136,Shipment SH0136 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0137,Shipment SH0137 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0140,Shipment SH0140 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0141,Shipment SH0141 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0142,Shipment SH0142 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0143,Shipment SH0143 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0144,Shipment SH0144 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0145,Shipment SH0145 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0147,Shipment SH0147 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0148,Shipment SH0148 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0149,Shipment SH0149 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0150,Shipment SH0150 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0151,Shipment SH0151 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0152,Shipment SH0152 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0154,Shipment SH0154 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0156,Shipment SH0156 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0157,Shipment SH0157 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0160,Shipment SH0160 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0161,Shipment SH0161 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0162,Shipment SH0162 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0163,Shipment SH0163 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0164,Shipment SH0164 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0165,Shipment SH0165 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0166,Shipment SH0166 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0167,Shipment SH0167 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0169,Shipment SH0169 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0171,Shipment SH0171 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0172,Shipment SH0172 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0173,Shipment SH0173 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0174,Shipment SH0174 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0175,Shipment SH0175 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0178,Shipment SH0178 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0179,Shipment SH0179 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0180,Shipment SH0180 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0182,Shipment SH0182 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0183,Shipment SH0183 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0184,Shipment SH0184 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0185,Shipment SH0185 is delayed by 8 days.,HIGH
+DELAYED_SHIPMENT,SH0186,Shipment SH0186 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0187,Shipment SH0187 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0188,Shipment SH0188 is delayed by 4 days.,MEDIUM
+DELAYED_SHIPMENT,SH0189,Shipment SH0189 is delayed by 7 days.,HIGH
+DELAYED_SHIPMENT,SH0190,Shipment SH0190 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0192,Shipment SH0192 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0193,Shipment SH0193 is delayed by 3 days.,MEDIUM
+DELAYED_SHIPMENT,SH0194,Shipment SH0194 is delayed by 2 days.,MEDIUM
+DELAYED_SHIPMENT,SH0196,Shipment SH0196 is delayed by 5 days.,HIGH
+DELAYED_SHIPMENT,SH0198,Shipment SH0198 is delayed by 1 days.,MEDIUM
+DELAYED_SHIPMENT,SH0199,Shipment SH0199 is delayed by 6 days.,HIGH
+DELAYED_SHIPMENT,SH0200,Shipment SH0200 is delayed by 2 days.,MEDIUM
