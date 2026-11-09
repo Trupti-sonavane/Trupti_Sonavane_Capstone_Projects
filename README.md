@@ -1,72 +1,29 @@
-# Trupti_Sonavane_Capstone_Projects
+# Trupti Sonavane – Capstone Projects
 
-# Enterprise Sales Intelligence
+## Overview
+This repository contains two capstone projects developed as part of the internship program.
 
-**Sales Data Analysis and Interactive Dashboard using Power BI**
+### DA-01: Enterprise Sales Intelligence
+An enterprise sales analytics solution using SQL Server and Power BI to analyze sales performance, profitability, customer trends, and regional business insights.
 
-## About the Project
+**Technologies:** SQL Server, SQL, Power BI, DAX, Power Query.
 
-Enterprise Sales Intelligence is a Power BI project developed to explore and analyze sales data using Microsoft's AdventureWorks sample dataset.
+### DA-03: Retail & Supply Chain Control Tower
+A supply chain monitoring solution using simulated inventory, supplier, shipment, and product demand data. It includes KPI analysis, demand forecasting, anomaly detection, and automated hourly data refresh.
 
-The main purpose of this project was to understand how sales data can be used to track business performance and identify useful insights. I worked on preparing the dataset, creating relationships between tables, developing DAX measures, and building an interactive dashboard.
+**Technologies:** Python, PostgreSQL, Apache Superset, Machine Learning, Windows Task Scheduler.
 
-The report allows users to explore sales performance using Year and Region filters and view additional details through drill-through analysis.
+## Repository Structure
 
-## Tools Used
+- `DA-01/` – Enterprise Sales Intelligence
+- `DA-03/` – Retail & Supply Chain Control Tower
 
-- Power BI Desktop
-- Power Query
-- DAX
-- AdventureWorks Sample Dataset
-- GitHub
+## Key Deliverables
+- Source code and SQL scripts
+- Project documentation
+- Architecture diagrams
+- Screenshots and reports
+- Testing and validation results
 
-## Work Completed
-
-- Imported and prepared the AdventureWorks dataset.
-- Cleaned and transformed data using Power Query.
-- Created relationships between the required tables.
-- Developed DAX measures for sales and profitability analysis.
-- Created KPI cards and interactive charts.
-- Added Year and Region filters.
-- Created a regional drill-through page.
-- Configured Row-Level Security (RLS) for regional data access.
-
-## Key Analysis
-
-The report focuses on:
-
-- Total Sales
-- Total Profit
-- Profit Margin
-- Year-over-Year Sales Growth
-- Year-to-Date Sales
-- Regional Sales Performance
-- Product and Customer Analysis
-
-## Dashboard
-
-The Power BI report provides an interactive view of sales performance. Users can apply filters and explore the available information at different levels of detail.
-
-**Dashboard screenshots:** Refer to the `Dashboard/Screenshots` folder.
-
-## Testing
-
-I checked the report's data model, DAX calculations, filter interactions, and drill-through functionality. RLS was also included as part of the report's access-control implementation.
-
-## What I Learned
-
-While working on this project, I gained practical experience in data preparation, data modeling, DAX calculations, dashboard development, and business data analysis using Power BI.
-
-## Future Improvements
-
-- Connect the dashboard to regularly refreshed sales data.
-- Explore sales forecasting.
-- Add more detailed customer analysis.
-- Introduce automated reporting.
-
-## Project Details
-
-**Project:** Enterprise Sales Intelligence  
-**Domain:** Data Analytics and Business Intelligence  
-**Tool:** Microsoft Power BI  
-**Dataset:** Microsoft AdventureWorks
+## Author
+Trupti Sonavane
